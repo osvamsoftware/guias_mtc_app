@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "397750141912",
+    "project_id": "guias-de-remision-4c4a6",
+    "storage_bucket": "guias-de-remision-4c4a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:397750141912:android:c73692baa378a4932e28ad",
+        "android_client_info": {
+          "package_name": "com.asesores_mtc.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvgpVsFbVF5gUvIisKxD_0ao20QS8R4DI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
